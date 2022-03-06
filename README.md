@@ -4,6 +4,7 @@ Econometrics-2 project 2022
 ------------------------------
 
 ├── README.md          <- The top-level README for developers using this project.
+|
 ├── data
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
