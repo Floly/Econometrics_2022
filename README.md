@@ -21,3 +21,6 @@ Econometrics-2 project 2022
     ├── code               <- All scripts for processing and regression.
     │
     ├── papers             <- Literature and other sources.
+    |
+    └── reports            <- Presentation and article.
+        └── figures        <- Graphs, regression results, etc.
